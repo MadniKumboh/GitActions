@@ -1,12 +1,7 @@
-// Copyright 2025 Madni Kumboh
-
 #include <iostream>
-
-// Use specific declarations instead of using-directives
-using std::cout;
-using std::endl;
+using namespace std;
 
 int main() {
-    cout << "Hello, Super-Linter!" << endl;
-    return 0;
+  cout << "Hello, Super-Linter!" << endl;
+  return 0;
 }
